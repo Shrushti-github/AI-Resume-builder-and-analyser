@@ -1,0 +1,30 @@
+John Doe
+Email: john.doe@email.com | Phone: (555) 123-4567 | LinkedIn: linkedin.com/in/johndoe
+
+EDUCATION
+Bachelor of Technology in Computer Science
+XYZ University, Mumbai
+Expected Graduation: May 2025
+GPA: 3.8/4.0
+
+TECHNICAL SKILLS
+Programming Languages: Python, Java, C++
+Web Technologies: HTML, CSS, JavaScript
+Databases: MySQL
+Tools: Git, VS Code
+
+PROJECTS
+Weather Application | Python
+- Developed a console-based weather app that fetches data from a public API using requests library.
+- Implemented features to display current temperature, humidity, and weather conditions for any city.
+- Used JSON parsing to extract and display relevant weather information.
+
+Library Management System | Java
+- Created a GUI-based application to manage library book inventory, member registrations, and issue/return records.
+- Implemented core OOP concepts like inheritance and polymorphism for different user types (Admin, Member).
+
+INTERNSHIP
+Software Development Intern | Tech Solutions Inc. | Summer 2024
+- Assisted in debugging and fixing issues in the company's main web application.
+- Wrote unit tests for new features using Python's unittest framework.
+- Participated in weekly agile sprints and code review sessions.
